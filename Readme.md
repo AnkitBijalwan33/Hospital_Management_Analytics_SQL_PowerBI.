@@ -57,14 +57,7 @@ Inspired by real hospital systems like AIIMS, Apollo Hospitals, and Sir Ganga Ra
 2. Run `hospital_management.sql` from **src/** folder  
 3. Insert sample data from **data/** folder  
 4. Execute queries from **src/queries.sql**  
-5. View reports/screenshots in **output/** folder  
+5. View reports/screenshots in **output/** folder..
 
----
 
-## 📸 Screenshots
-(Add screenshots of ER diagram, queries, and reports here)
 
----
-
-## 📜 License
-This project is licensed under the MIT License – see the LICENSE file for details.
