@@ -1,3 +1,0 @@
-# Database Requirement
-mysql-server==8.0
-mysql-workbench==8.0
